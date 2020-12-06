@@ -1,0 +1,12 @@
+/home/viet/NetBeansProjects/mavenproject2/src/main/java/com/learn/mavenproject2/servlets/RegisterServlet.java
+/home/viet/NetBeansProjects/mavenproject2/src/main/java/com/learn/mavenproject2/servlets/ProductOperationServlet.java
+/home/viet/NetBeansProjects/mavenproject2/src/main/java/com/learn/mavenproject2/entities/Category.java
+/home/viet/NetBeansProjects/mavenproject2/src/main/java/com/learn/mavenproject2/entities/User.java
+/home/viet/NetBeansProjects/mavenproject2/src/main/java/com/learn/mavenproject2/entities/Product.java
+/home/viet/NetBeansProjects/mavenproject2/src/main/java/com/learn/mavenproject2/helper/FactoryProvider.java
+/home/viet/NetBeansProjects/mavenproject2/src/main/java/com/learn/mavenproject2/dao/UserDao.java
+/home/viet/NetBeansProjects/mavenproject2/src/main/java/com/learn/mavenproject2/servlets/LoginServlet.java
+/home/viet/NetBeansProjects/mavenproject2/src/main/java/com/learn/mavenproject2/helper/Helper.java
+/home/viet/NetBeansProjects/mavenproject2/src/main/java/com/learn/mavenproject2/dao/ProductDao.java
+/home/viet/NetBeansProjects/mavenproject2/src/main/java/com/learn/mavenproject2/dao/CategoryDao.java
+/home/viet/NetBeansProjects/mavenproject2/src/main/java/com/learn/mavenproject2/servlets/LogoutServlet.java
